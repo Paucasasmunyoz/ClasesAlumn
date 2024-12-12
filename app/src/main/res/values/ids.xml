@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextName" type="id" />
+    <item name="spinnerClase" type="id" />
+    <item name="buttonIniciarSesion" type="id" />
+</resources>
